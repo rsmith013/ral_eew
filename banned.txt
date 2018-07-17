@@ -1,0 +1,48 @@
+api
+spider
+BUbiNG
+Baidu
+/static
+Barkrowler
+Vegi bot
+baidu
+Gluten Free Crawler
+Xenu Link Sleuth
+IABot
+Applebot
+applebot
+Altmetribot
+Twitterbot
+TurnitinBot
+SpuhexBot
+istellabot
+CCBot
+RankingBot2
+TweetmemeBot
+Googlebot
+SafeDNSBot
+SurveyBot
+MauiBot
+VelenPublicWebCrawler
+GarlikCrawler
+CipaCrawler
+KomodiaBot
+yacybot
+SocialRankIOBot
+ZoominfoBot
+mediawords bot
+AdsBot
+bitlybot
+woobot
+The Knowledge AI
+ltx71
+bingbot
+adscanner
+DotBot
+MJ12bot
+AhrefsBot
+YandexBot
+SemanticScholarBot
+SemrushBot
+compatible
+crawler_faq
